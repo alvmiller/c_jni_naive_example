@@ -1,0 +1,2 @@
+# c_jni_naive_example
+c_jni_naive_example
